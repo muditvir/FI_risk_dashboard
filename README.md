@@ -9,8 +9,7 @@ It combines Python, Power BI, and Streamlit to visualize **DV01 exposure**, **da
 
 [![Streamlit App](https://img.shields.io/badge/Launch%20Streamlit%20App-orange?logo=streamlit&logoColor=white)]([https://fixed-income-dashboard.streamlit.app](https://fixed-income-risk-dashboard.streamlit.app/))
 > 🔎 Interactive browser-based dashboard for real-time analysis
-> https://fixed-income-risk-dashboard.streamlit.app/  
-[https://github.com/muditvir/fixed_income_dashboard.git](https://github.com/muditvir/FI_risk_dashboard.git
+> [https://github.com/muditvir/fixed_income_dashboard.git](https://github.com/muditvir/FI_risk_dashboard.git)
 
 
 ---
@@ -38,7 +37,16 @@ It combines Python, Power BI, and Streamlit to visualize **DV01 exposure**, **da
 ```bash
 git clone https://github.com/muditvir/FI_risk_dashboard.git
 cd FI_risk_dashboard
+```
 
 ### 2. Install dependencies
 ```bash
-pip install requirments.txt
+pip install requirements.txt
+```
+
+### 3. Run the Streamlit App Locally
+```bash
+streamlit run app.py
+```
+
+
