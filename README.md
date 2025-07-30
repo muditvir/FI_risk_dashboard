@@ -24,7 +24,7 @@ It combines Python, Power BI, and Streamlit to visualize **DV01 exposure**, **da
 
 - 📊 **PnL Attribution** by tenor (2Y, 5Y, 10Y, 30Y)
 - 📉 **DV01 Risk Breakdown** across the curve
-- ⚠️ **Historical VaR (95%)** with distribution plots
+- ⚠️ **Historical VaR** with distribution plots
 - 🖥️ **Power BI Dashboard** for advanced visualization
 - 🌐 **Streamlit App** for a quick frontend interface
 
