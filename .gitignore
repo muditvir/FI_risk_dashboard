@@ -1,0 +1,42 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Environment variables and credentials
+.env
+*.env
+
+# Virtual environment
+.venv/
+env/
+venv/
+ENV/
+
+# MacOS and system files
+.DS_Store
+Thumbs.db
+
+# Logs and debug
+*.log
+
+# VSCode settings
+.vscode/
+
+# Streamlit cache and logs
+.streamlit/
+*.tst
+
+
+# Python environments
+pip-log.txt
+pip-delete-this-directory.txt
+
+# pyproject and build files
+build/
+dist/
+*.egg-info/
+*.egg
