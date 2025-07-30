@@ -16,7 +16,9 @@ It combines Python, Power BI, and Streamlit to visualize **DV01 exposure**, **da
 
 ## 📷 Dashboard Preview
 
-<img src="assets/dashboard.png" alt="Power BI Dashboard Screenshot" width="800"/>
+<img src="data/yield_curve_plot.png" alt="Yield Curve Plot" width="800"/>
+<img src="dashboard/pnl_distribution.png" alt="PnL Distribution" width="800"/>
+<img src="dashboard/daily_pnl_breakdown.png" alt="Daily PnL" width="800"/>
 
 ---
 
